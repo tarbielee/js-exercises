@@ -1,0 +1,2 @@
+# js-exercises
+# password.js
